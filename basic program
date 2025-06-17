@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+int apple=20,mango=30,strawberry=50;
+printf("apple count=%d\n mango count=%d\n strawberry count=%d\n",apple,mango,strawberry);
+return 0;
+}
